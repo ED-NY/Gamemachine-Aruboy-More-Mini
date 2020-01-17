@@ -1,4 +1,4 @@
-# -A-game-machine-aruboy-diy
+# gamemachine-aruboy-diy
 自制pcb （Self made PCB）
 
 这是一个开源游戏机的pcb，
@@ -25,6 +25,7 @@
 
 
 English
+
 This is the PCB of an open source game console. Of course, you can see that this is arduboy
 
 I'm for someone who wants to make an arduboy but is hard to weld.
