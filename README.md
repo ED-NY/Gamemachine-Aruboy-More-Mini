@@ -16,7 +16,8 @@
 如果你觉的有趣那么可以自己制作pcb板这个文件是可以直接发到厂家制作的，当然你也可以自己修改制作
 
 这个只是个人的娱乐罢了，寄存在github，分享一下😊😊
-
+附几张图片
+![image](https://github.com/ED-NY/-A-game-machine-aruboy-diy/blob/master/IMG_20200115_193251.jpg)
 下面是上面的英文
 
 
