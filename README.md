@@ -18,6 +18,7 @@
 这个只是个人的娱乐罢了，寄存在github，分享一下😊😊
 附几张图片
 ![image](https://github.com/ED-NY/-A-game-machine-aruboy-diy/blob/master/IMG_20200115_193251.jpg)
+![image](https://github.com/ED-NY/-A-game-machine-aruboy-diy/blob/master/IMG_20200115_193304.jpg)
 下面是上面的英文
 
 
