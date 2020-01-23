@@ -23,7 +23,7 @@
 
 新加的底板上面是供电
 ![image](https://github.com/ED-NY/Gamemachine-Aruboy-More-Mini/commit/fc388eed11764731dc56772a96b2885ac33c4b73)
-![image]
+![image](https://github.com/ED-NY/Gamemachine-Aruboy-More-Mini/blob/master/IMG_20200118_213755.jpg)
 下面是上面的英文
 
 
