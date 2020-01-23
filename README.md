@@ -7,8 +7,8 @@
 
 这个pcb只是因为个人的需要（懒得焊接
 
-需要准备的：arduino pro micro -一个
-           1.3寸oled显示屏注意是七个管脚的（也可以是六个cs是选接的）
+需要准备的：1.arduino pro micro -一个
+          2.1.3寸oled显示屏注意是七个管脚的（也可以是六个cs是选接的）
            按钮n
            
 这个pcb板标的是v2.1，因为第一个版本遇到了很多问题所以我就不寄存了
@@ -22,7 +22,7 @@
 
 
 新加的底板上面是供电
-![image](https://github.com/ED-NY/Gamemachine-Aruboy-More-Mini/commit/fc388eed11764731dc56772a96b2885ac33c4b73)
+![image](https://github.com/ED-NY/Gamemachine-Aruboy-More-Mini/blob/master/IMG_20200118_213730.jpg)
 ![image](https://github.com/ED-NY/Gamemachine-Aruboy-More-Mini/blob/master/IMG_20200118_213755.jpg)
 下面是上面的英文
 
