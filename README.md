@@ -9,7 +9,7 @@
 
 需要准备的：1.arduino pro micro -一个
           2.1.3寸oled显示屏注意是七个管脚的（也可以是六个cs是选接的）
-          3.按钮n
+          3.按钮6*6*4.x
           4.滑动开关(侧)四脚
           5.充放一体的充电板
           6.锂电池厚度小于等于5mm
@@ -51,7 +51,7 @@ What to prepare:
 
 2.the 1.3-inch OLED display has seven pins (or six CS are optional)
 
-3.Button n
+3.Button 6*6*4.x
 
 4. Four feet of sliding switch (side)
 
