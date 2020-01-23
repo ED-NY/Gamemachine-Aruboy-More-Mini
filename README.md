@@ -19,6 +19,11 @@
 附几张图片
 ![image](https://github.com/ED-NY/-A-game-machine-aruboy-diy/blob/master/IMG_20200115_193251.jpg)
 ![image](https://github.com/ED-NY/-A-game-machine-aruboy-diy/blob/master/IMG_20200115_193304.jpg)
+
+
+新加的底板上面是供电
+![image](https://github.com/ED-NY/Gamemachine-Aruboy-More-Mini/commit/fc388eed11764731dc56772a96b2885ac33c4b73)
+![image]
 下面是上面的英文
 
 
