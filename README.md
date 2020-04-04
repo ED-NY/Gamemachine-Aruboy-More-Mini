@@ -1,13 +1,10 @@
 # gamemachine-aruboy-diy
 自制pcb （Self made PCB）
 
-这是一个开源游戏机的pcb，
+这是一个开源游戏机的pcb<br>
 
-我是为了一些想要做，arduboy游戏机但是难于焊接的人准备的
 
-这个pcb只是因为个人的需要（懒得焊接)
-
-需要准备的：1.arduino pro micro -一个
+需要准备的：1.arduino pro micro -一个<br/>
           2.1.3寸oled显示屏注意是七个管脚的（也可以是六个cs是选接的）
           3.按钮6*6*4.x
           4.滑动开关(侧)四脚
