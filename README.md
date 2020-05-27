@@ -1,8 +1,6 @@
 # gamemachine-aruboy-diy
-自制pcb （Self made PCB）
 
 这是一个开源游戏机的pcb<br>
-
 
 需要准备的：1.arduino pro micro -一个<br/>
           2.1.3寸oled显示屏注意是七个管脚的驱动是ssd1306（也可以是六个cs是选接的）<br>
@@ -14,26 +12,7 @@
           8.强度螺丝M2*3<br>
   两个pcb通过螺柱连接完整后只有一张名片大小，厚度是5mm<br/>
            
-           
 这个pcb板标的是v2.2<br>
-
-如果你觉的有趣那么可以自己制作pcb板这个文件是可以直接发到厂家制作的，当然你也可以自己修改制作<br/>
-
-这个只是个人的娱乐罢了，寄存在github，分享一下😊😊<br>
-附几张图片
-![image](https://github.com/ED-NY/Gamemachine-Aruboy-More-Mini/blob/master/up1.png)
-![image](https://github.com/ED-NY/Gamemachine-Aruboy-More-Mini/blob/master/up2.png)
-
-
-新加的底板上面是供电
-![image](https://github.com/ED-NY/Gamemachine-Aruboy-More-Mini/blob/master/under1.png)
-![image](https://github.com/ED-NY/Gamemachine-Aruboy-More-Mini/blob/master/under2.png)
-下面是上面的英文<br>
-
-
-
-
-English<br/>
 
 This is the PCB of an open source game console. Of course, you can see that this is arduboy
 
