@@ -13,6 +13,8 @@
   两个pcb通过螺柱连接完整后只有一张名片大小，厚度是5mm<br/>
            
 这个pcb板标的是v2.2<br>
+show that<br/>
+![image](https://github.com/ED-NY/Gamemachine-Aruboy-More-Mini/blob/master/DEF40029-8621-4849-9AE0-A688E2D4F9FC.jpeg)
 
 This is the PCB of an open source game console. Of course, you can see that this is arduboy
 
